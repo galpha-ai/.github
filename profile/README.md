@@ -1,6 +1,6 @@
 <h1 align="center">AIUSD</h1>
 
-<p align="center"><strong>Agent trading infrastructure for crypto.</strong></p>
+<p align="center"><strong>Trading infrastructure for AI agents.</strong></p>
 
 <p align="center">
 DEX · CEX · Perpetuals · Prediction Markets · Conditional Trading
@@ -17,7 +17,7 @@ DEX · CEX · Perpetuals · Prediction Markets · Conditional Trading
 
 ---
 
-AIUSD gives AI agents the infrastructure to execute complex crypto trades — spot swaps, perpetual futures, prediction markets, and conditional strategies — across chains and venues through a single interface.
+AIUSD gives AI agents the infrastructure to execute complex trades — spot, perpetual futures, prediction markets, and conditional strategies — across venues through a single interface.
 
 ### Get Started
 
