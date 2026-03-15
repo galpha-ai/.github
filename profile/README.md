@@ -17,7 +17,7 @@ DEX · CEX · Perpetuals · Prediction Markets · Conditional Trading
 
 ---
 
-AIUSD gives AI agents the infrastructure to execute complex trades — spot, perpetual futures, prediction markets, and conditional strategies — across venues through a single interface.
+AIUSD gives AI agents the infrastructure to execute complex trades — spot, perpetual futures, prediction markets, and conditional strategies — in one unified layer.
 
 ### Get Started
 
