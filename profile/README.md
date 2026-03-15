@@ -21,10 +21,16 @@ AIUSD gives AI agents the infrastructure to execute complex trades — spot, per
 
 ### Get Started
 
-**Install as a skill** (Claude Code / Codex / Cursor):
+**AIUSD Core** — structured CLI tools, no platform inference cost:
 
 ```bash
-npx skills add galpha-ai/aiusd-skills -y -g
+npx skills add galpha-ai/aiusd-core -y -g
+```
+
+**AIUSD Pro** — managed AI agent with built-in reasoning:
+
+```bash
+npx skills add galpha-ai/aiusd-pro -y -g
 ```
 
 **Or connect via MCP API:**
@@ -36,12 +42,12 @@ tools: [{
 }]
 ```
 
-### Open Source Skills
+### Open Source
 
 | Repo | Description |
 |------|-------------|
-| [aiusd-skills](https://github.com/galpha-ai/aiusd-skills) | Trading and account management skill via MCP protocol |
-| [aiusd-nl-skill](https://github.com/galpha-ai/aiusd-nl-skill) | Natural language skill — trade through conversation |
+| [aiusd-core](https://github.com/galpha-ai/aiusd-core) | Trading tools and account management for AI agents |
+| [aiusd-pro](https://github.com/galpha-ai/aiusd-pro) | AI-powered trading agent with built-in reasoning |
 
 ### Documentation
 
